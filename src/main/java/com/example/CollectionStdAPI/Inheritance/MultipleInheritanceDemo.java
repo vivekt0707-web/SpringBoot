@@ -18,5 +18,3 @@ public class MultipleInheritanceDemo extends A,B{
 
 }
 
-
-}
