@@ -15,5 +15,4 @@ public class StudentDetails {
     private String dept;
     //private String country;
 
-
 }
